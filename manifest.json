@@ -1,0 +1,29 @@
+{
+  "manifest_version": "1.0",
+  "org": "py-pdf",
+  "repo": "pdf-crawler",
+  "versions": [
+    {
+      "commit": "8c9228a22faf313ea12f15847cb59eedfc5e5e44",
+      "parsed_at": "2026-10-21T02:07:48.331174+00:00",
+      "filetree": "filetree/8c9228a22faf313ea12f15847cb59eedfc5e5e44.nq.gz",
+      "blobs": [
+        "blob/7979dc00299ecabc3691eae8adbba32266ff8270.nq.gz",
+        "blob/f2f2c19f14a4640572208abfb1126e452cf847f6.nq.gz",
+        "blob/7a50801f4f3c1429a24eadfe8f74c4869022d0df.nq.gz",
+        "blob/e29a132af7a6b9d921d5991ba1b21be3aef231ec.nq.gz",
+        "blob/0d78eaf13e4c6ab6eab096621ecaaa17bc5afc8a.nq.gz",
+        "blob/e65d57734e0e5063d11704c77589d421004222f7.nq.gz",
+        "blob/0d5b44e0b6d6eb9d5853631ebc45e5bb5340f529.nq.gz",
+        "blob/df364248f42967e404dd7dbc8d065e36bfa8d8ef.nq.gz",
+        "blob/281a9a0971d4ab8262259d90c4cbc7b575365908.nq.gz",
+        "blob/b7d7db05da73de834fe55842354c3d613a538af1.nq.gz",
+        "blob/b190e9ce50936202a6caeae2117e13055a48bb4b.nq.gz",
+        "blob/4f3170899e01eb33cc0d57b219c6b93ccde46f10.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz"
+}
